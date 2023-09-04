@@ -1,8 +1,6 @@
 # ROVer Optometry: Underwater Object Detection
 <p align = "center"><img src = https://github.com/ACM-Research/ROVer-Optometry-Underwater-Object-Detection/blob/main/ACM_Research__ROVer_Optometry__Underwater_Object_Detection_-1.png></p>
 
-The members in this team will learn the basics of image classification to then be immediately thrown into the ringer to train a model that can detect certain types of objects under various measures of turbid water by utilizing CNNs (Convolutional neural networks) such as YOLO or MobileNet.
-
 ## Introduction
 We will be giving the gift of sight to an ROV! You may ask “okay, well what is an ROV, to begin with?”, well fret not. ROV stands for Remotely Operated Vehicles, they are typically used underwater by many industries like Search and Rescue, Military, Underwater Infrastructure, and much much more.
 
