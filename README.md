@@ -1,10 +1,20 @@
 # ROVer Optometry: Underwater Object Detection
-<p align = "center"><img src = https://github.com/ACM-Research/ROVer-Optometry-Underwater-Object-Detection/blob/main/ACM_Research__ROVer_Optometry__Underwater_Object_Detection_-1.png></p>
+<p align = "center"><img src = https://github.com/ACM-Research/ROVer-Optometry-Underwater-Object-Detection/blob/main/assets/ACM_Research__ROVer_Optometry__Underwater_Object_Detection_-1.png></p>
 
 # Introduction
 
 ### Understanding ROVs
+<table>
+  <tr>
+    <td style="width: 50%; text-align: left;">
 ROV, short for Remotely Operated Vehicle, is a crucial tool for various underwater activities. Designed to operate in challenging aquatic conditions, ROVs are remotely controlled, allowing for tasks and data collection in areas that are often inaccessible or dangerous for humans.
+    </td>
+     <td style="width: 50%; text-align: center;">
+    <img style="float: right;" src= "https://github.com/ACM-Research/ROVer-Optometry-Underwater-Object-Detection/blob/main/assets/ezgif.com-crop.gif" alt="RoboSub @ UTD's VESPA ROV">
+       <p> <a href="https://github.com/RoboSub-UTD">RoboSub</a> @ UTD's VEPSA ROV</p>
+   </td>
+  </tr>
+</table>    
 
 ## Problem Focus
 In this project, team members will embark on a journey to master the fundamentals of image classification. Following this foundational knowledge, the team will dive into the realm of training models using advanced convolutional neural networks (CNNs), including YOLOv7. Their mission: develop and fine-tune a model capable of detecting specific objects beneath varying levels of turbid water. The ultimate objective is to showcase the achievement of precise and high-accuracy underwater object detection and classification.
