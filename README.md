@@ -17,10 +17,10 @@ ROV, short for Remotely Operated Vehicle, is a crucial tool for various underwat
 </table>    
 
 ## Problem Focus
-In this project, team members will embark on a journey to master the fundamentals of image classification. Following this foundational knowledge, the team will dive into the realm of training models using advanced convolutional neural networks (CNNs), including YOLOv7. Their mission: develop and fine-tune a model capable of detecting specific objects beneath varying levels of turbid water. The ultimate objective is to showcase the achievement of precise and high-accuracy underwater object detection and classification.
+In this project, team members will embark on a journey to master the fundamentals of image classification. Following this foundational knowledge, the team will dive into the realm of training models using advanced convolutional neural networks (CNNs), including YOLOv7. Their mission: develop and fine-tune a model capable of detecting trash beneath varying levels of turbid water. The ultimate objective is to showcase the achievement of precise and high-accuracy underwater object detection and classification.
 
 ## Dataset
-
+To create our main dataset, we gathered data for a multitude of places. Which includes, RoboFlow, a site where others can upload their own datasets to conform to many things
 
 ## Model
 <!--We primarily used the TensorFlow 2 Object Detection API to train models. We prioritized speed in our model instances since the final product would end up processing live input and translating it to game controls. Games require very low input lag, on the order of milliseconds, so a very accurate but slow model fell out of favor as opposed to a generally accurate but fast model. We used SSDMobileNetv2 and YOLOv7, which are excellent at fast object detection. -->
@@ -28,8 +28,11 @@ In this project, team members will embark on a journey to master the fundamental
 ## Training
 <!-- The model was trained on Google Colab since it provided a Python environment with usable GPUs for training. -->
 
-## Our Solution
+## Results
 
+## Analysis
+
+## Conclusion
 
 ## Contributors
 - [Aditya Kulkarni](https://github.com/adityak0909)
